@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "enabled": true,
-  "updatedAt": "2026-10-05T18:53:43+09:00",
+  "updatedAt": "2026-10-05T18:54:09+09:00",
   "banners": [
     {
       "id": "shop-a",
@@ -16,7 +16,7 @@
       "name": "SHOP B",
       "logo": "logos/shop-b.png",
       "url": "https://example.com/?figxy_ad=2",
-      "enabled": true,
+      "enabled": false,
       "order": 2
     },
     {
