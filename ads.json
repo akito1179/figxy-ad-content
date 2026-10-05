@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "enabled": true,
+  "updatedAt": "2026-10-05T17:14:42+09:00",
+  "banners": [
+    {
+      "id": "shop-a",
+      "name": "SHOP A",
+      "logo": "logos/shop-a.png",
+      "url": "https://example.com/?figxy_ad=1",
+      "enabled": true,
+      "order": 1
+    },
+    {
+      "id": "shop-b",
+      "name": "SHOP B",
+      "logo": "logos/shop-b.png",
+      "url": "https://example.com/?figxy_ad=2",
+      "enabled": true,
+      "order": 2
+    },
+    {
+      "id": "shop-c",
+      "name": "SHOP C",
+      "logo": "logos/shop-c.png",
+      "url": "https://example.com/?figxy_ad=3",
+      "enabled": true,
+      "order": 3
+    }
+  ]
+}
